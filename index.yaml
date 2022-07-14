@@ -9,6 +9,6 @@ entries:
     name: jenkins-helm
     type: application
     urls:
-    - https://s-kalyuga.github.io/jenkins-helm/jenkins-helm-0.1.0.tgz
+    - https://s-kalyuga.github.io/jenkins-helm/helm-app/jenkins-helm-0.1.0.tgz
     version: 0.1.0
 generated: "2022-07-14T22:18:04.674989725+03:00"
