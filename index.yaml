@@ -3,12 +3,22 @@ entries:
   jenkins-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-07-14T22:18:04.677418361+03:00"
+    created: "2022-07-15T00:27:51.781130086+03:00"
     description: A Helm chart for Kubernetes
-    digest: 2302fe88897a7465c14a27e95fb8e35818af0c26152747d40cd919aaad24274a
+    digest: a7944d9ad1706d9dcbb3d7aa3deed94ad324a6ce7c740f2965fe2759e8baa1ec
+    name: jenkins-helm
+    type: application
+    urls:
+    - https://s-kalyuga.github.io/jenkins-helm/helm-app/jenkins-helm-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-15T00:27:51.779227959+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 2f2b6d753b52bb6a9fb0fa850e36522f78edf332facee838706758bbbf2e65f3
     name: jenkins-helm
     type: application
     urls:
     - https://s-kalyuga.github.io/jenkins-helm/helm-app/jenkins-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-14T22:18:04.674989725+03:00"
+generated: "2022-07-15T00:27:51.776928827+03:00"
